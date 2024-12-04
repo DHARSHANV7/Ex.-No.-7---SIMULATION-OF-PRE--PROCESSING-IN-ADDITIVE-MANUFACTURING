@@ -38,7 +38,7 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
+
 ![Screenshot 2024-12-04 104757](https://github.com/user-attachments/assets/b23f71fd-aaee-4eb7-a66c-bced15b6d962)
 ![Screenshot 2024-12-04 104850](https://github.com/user-attachments/assets/d2e5cf87-76d1-40cf-ad38-944b163bab53)
 ![Screenshot 2024-12-04 104843](https://github.com/user-attachments/assets/6ac9350c-1358-4c8f-8b72-1d64f05e0fc3)
